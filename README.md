@@ -1,0 +1,6 @@
+- renombrar el archivo .env-template a .env y completar info necesaria
+- cd node-app && npm i
+- verificar que docker esta ejecutandose "docker ps"
+- en la raiz del proyecto levantar contenedores "docker compose up"
+- si ves el mensaje "hola mundo desde node" todo esta ok
+- iniciar git ( git init )
